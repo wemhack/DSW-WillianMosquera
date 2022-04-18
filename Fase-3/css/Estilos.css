@@ -1,15 +1,17 @@
 header{
-    background-color: #B8FFF9;
+    background-color: #40DFEF;
     display: flex;
     flex-direction: row;
+    padding: auto;
 }
 nav{
-    background-color: #EFFFFD;
+    background-color: #B9F8D3;
     list-style: none;
+    padding: 12px;
 }
 
 section{
-    background-color: #EFFFFD;
+    background-color: #FFFBE7;
     display:grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
@@ -22,7 +24,7 @@ aside{
     grid-column: 4/5;
 }
 footer{
-    background-color: #42C2FF;
+    background-color: #E78EA9;
 }
 .Menu{
     display: flex;
